@@ -1,0 +1,14 @@
+.booking-form {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .booking-form button {
+    padding: 10px 20px;
+    background-color: #0066cc;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
